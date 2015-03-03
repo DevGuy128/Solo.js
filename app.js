@@ -5,5 +5,5 @@ var createDB = function(){
 };
 var start = function(){
   app.listen(3000);
-  app.on('disconnect',)
+  app.on('disconnect')
 };
